@@ -563,3 +563,18 @@ footer p {
 }
 
 }
+
+@media screen and (max-width: 1300px){
+  .information {
+   
+    gap: 14vh;
+    
+}
+}
+@media screen and (max-width: 1200px){
+  .information {
+   
+    gap: 17vh;
+    
+}
+}
